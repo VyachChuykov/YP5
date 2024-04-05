@@ -1,0 +1,13 @@
+F:\Проекты VS\test_pp\test_pp\bin\Debug\test_pp.exe.config
+F:\Проекты VS\test_pp\test_pp\bin\Debug\test_pp.exe
+F:\Проекты VS\test_pp\test_pp\bin\Debug\test_pp.pdb
+F:\Проекты VS\test_pp\test_pp\obj\Debug\test_pp.csproj.AssemblyReference.cache
+F:\Проекты VS\test_pp\test_pp\obj\Debug\test_pp.csproj.SuggestedBindingRedirects.cache
+F:\Проекты VS\test_pp\test_pp\obj\Debug\test_pp.Properties.Resources.resources
+F:\Проекты VS\test_pp\test_pp\obj\Debug\test_pp.csproj.GenerateResource.cache
+F:\Проекты VS\test_pp\test_pp\obj\Debug\test_pp.csproj.CoreCompileInputs.cache
+F:\Проекты VS\test_pp\test_pp\obj\Debug\test_pp.exe
+F:\Проекты VS\test_pp\test_pp\obj\Debug\test_pp.pdb
+F:\Проекты VS\test_pp\test_pp\obj\Debug\test_pp.startForm.resources
+F:\Проекты VS\test_pp\test_pp\obj\Debug\test_pp.Info.resources
+F:\Проекты VS\test_pp\test_pp\obj\Debug\test_pp.TestForm.resources
